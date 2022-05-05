@@ -1,7 +1,7 @@
 ---
 title: Heisenberg
 layout: template
-filename: index.md
+filename: index
 --- 
 
 <p>Hello</p>
