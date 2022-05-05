@@ -4,4 +4,4 @@ layout: template
 filename: index
 --- 
 
-<p>MAIN FILE</p>
+<h1>MAIN FILE</h1>
